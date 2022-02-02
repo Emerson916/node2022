@@ -1,0 +1,15 @@
+{
+  "name": "node2022",
+  "version": "1.0.0",
+  "description": "Aprendendo node js",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon app.js"
+   },
+  "author": "Emerson Silva",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
